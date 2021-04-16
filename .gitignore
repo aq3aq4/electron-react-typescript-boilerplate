@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#typescript 빌드 결과물이므로 제거
+public/electron.js
+
+#electron build 결과물 저장 파일
+dist
